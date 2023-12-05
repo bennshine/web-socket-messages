@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="api" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="api">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/visjustice" local="$PROJECT_DIR$" web="/visjustice" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
